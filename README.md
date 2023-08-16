@@ -2,7 +2,7 @@
 
 ![github-header-image](https://github.com/shielajchan/shielajchan/assets/72311300/bdadc31f-57ef-40d4-bfe0-05888d4d57d8)
 
-I'm currently an intern on an exciting journey of learning and exploration in the realm of application development. This GitHub repository serves as a window into my coding adventures, where I'm building, experimenting, and honing my skills.
+I'm currently an intern, emabarked on an exciting journey of learning and exploration in the realm of application development. This GitHub repository serves as a portal into my coding adventures, where I'm building, experimenting, and honing my skills.
 
 - 🔭 I’m currently working on different SharePoint Sites.
 - 🌱 I’m currently learning Data analytics, Phyton, R, SQL.
