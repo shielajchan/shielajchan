@@ -4,7 +4,7 @@
 
 I'm currently an intern, emabarked on an exciting journey of learning and exploration in the realm of application development. This GitHub repository serves as a portal into my coding adventures, where I'm building, experimenting, and honing my skills.
 
-![Shiela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielajchan&show_icons=true&theme=tokyonight) <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+![Shiela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielajchan&show_icons=true&theme=tokyonight) <img src="https://github-readme-streak-stats.herokuapp.com/?user=shielajchan"></img>
 
 
 - 🔭 I’m currently working on different SharePoint Sites.
