@@ -4,6 +4,8 @@
 
 I'm currently an intern, emabarked on an exciting journey of learning and exploration in the realm of application development. This GitHub repository serves as a portal into my coding adventures, where I'm building, experimenting, and honing my skills.
 
+![Shiela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielajchan&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shielajchan&layout=compact)
+
 - 🔭 I’m currently working on different SharePoint Sites.
 - 🌱 I’m currently learning Data analytics, Phyton, R, SQL.
 - 🤔 I’m looking for a mentor that can help me with my Data analytics journey! 
