@@ -7,8 +7,8 @@ I'm currently an intern, emabarked on an exciting journey of learning and explor
 ![Shiela's GitHub stats](https://github-readme-stats.vercel.app/api?username=shielajchan&show_icons=true&theme=tokyonight) <img src="https://github-readme-streak-stats.herokuapp.com/?user=shielajchan"></img>
 
 
-- 🔭 I’m currently working on different SharePoint Sites.
-- 🌱 I’m currently learning Data analytics, Phyton, R, SQL.
+- 🔭 I’m currently working on Building Applications and Solutions with Microsoft 365 Core Services.
+- 🌱 I’m currently learning Data analytics, Power BI to be exact.
 - 🤔 I’m looking for a mentor that can help me with my Data analytics journey! 
 - 👯 I’m looking to collaborate on projects that provide me with valuable learning experiences while contributing to the team's success. 
 
